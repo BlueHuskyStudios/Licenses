@@ -1,10 +1,12 @@
-                 BLUE HUSKY LICENSE 0 - PUBLIC DOMAIN - OPUS 1
+                 BLUE HUSKY LICENSE 0 - PUBLIC DOMAIN - OPUS 2
 
 1: DECLARATION OF COPYRIGHT
-   This product is copyright [COMPANY NAME HERE] (c) [4-DIGIT YEAR]
+   This product is copyright [COMPANY NAME] (c) [4-DIGIT YEAR] BH-0-PD
 
 2: DEFINITIONS
  - "Product": this product and any assets necessary for its use
+ - "Licensers": any entity or entities involved in distribution of the Product
+   and of this license
 
 3: NOTICE OF PERMISSIONS
    Permission is hereby granted to any entity obtaining a copy of the Product,
@@ -13,12 +15,26 @@ otherwise handle the Product, and to permit entities to whom the Product is
 furnished to also do so, given the following conditions are obeyed:
 
  - The above copyright notice and this permission notice shall be included in
-   all copies or substantial portions of the Product.
+   all copies and/or substantial portions of the Product.
  - This license shall be blatantly provided, unmodified, along with the Product
 
-4: DISCLAIMER
+4: REFUSAL OF OWNERSHIP
+   The Licensers hereby refuse ownership, both fully and partially, of the
+Product, and agree to continue to refuse ownership so long as this license is
+provided with the Product.
+
+   If any part of the Product is covered under copyright, trademark,
+intellectual property, or any other form of ownership, to the Licensers or any
+other entity, this license shall not invalidate that ownership in any way.
+
+5: ACCORDANCE WITH THE LAW
+   The terms that make up the whole and parts of this license shall not apply
+where local, state, provincial, federal, national, or any other law prohibits
+such terms.
+
+6: DISCLAIMER
    THE PRODUCT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
 CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR
-OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE
-OR OTHER DEALINGS IN THE SOFTWARE.
+OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE PRODUCT OR THE USE
+OR OTHER DEALINGS IN OR WITH THE PRODUCT.
