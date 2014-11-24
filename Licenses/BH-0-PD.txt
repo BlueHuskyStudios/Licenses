@@ -1,7 +1,16 @@
-                 BLUE HUSKY LICENSE 0 - PUBLIC DOMAIN - OPUS 3
+                 BLUE HUSKY LICENSE 0 - PUBLIC DOMAIN - OPUS 4
 
-1: DECLARATION OF COPYRIGHT
-   This product is copyright [COMPANY NAME] (c) [4-DIGIT YEAR] BH-0-PD
+0: LAYMAN'S TERMS
+   This section is meant to explain the purpose of this license in Layman's
+terms, and should thusly never be seen as legally binding. This disclaimer does
+not apply to further sections of this license.
+
+ 1. This is no one's product and is in the public domain
+ 2. You're not responsible for bad things that might happen because someone
+    used this product
+
+1: DECLARATION OF CREATION
+   This product was made by [COMPANY NAME] (c) [4-DIGIT YEAR] BH-0-PD
 
 2: DEFINITIONS
  - "License": this text
@@ -36,7 +45,7 @@ such terms.
 
 6: DISCLAIMER
    THE PRODUCT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
-CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR
+IMPLIED. IN NO EVENT SHALL THE CREATOR OR LICENSORS BE LIABLE FOR ANY CLAIM,
+DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR
 OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE PRODUCT OR THE USE
 OR OTHER DEALINGS IN OR WITH THE PRODUCT.
