@@ -1,11 +1,13 @@
-                 BLUE HUSKY LICENSE 0 - PUBLIC DOMAIN - OPUS 2
+                 BLUE HUSKY LICENSE 0 - PUBLIC DOMAIN - OPUS 3
 
 1: DECLARATION OF COPYRIGHT
    This product is copyright [COMPANY NAME] (c) [4-DIGIT YEAR] BH-0-PD
 
 2: DEFINITIONS
- - "Product": this product and any assets necessary for its use
- - "Licensers": any entity or entities involved in distribution of the Product
+ - "License": this text
+ - "Product": the product with which this License was distributed, and any
+   assets necessary for its use
+ - "Licensors": any entity or entities involved in distribution of the Product
    and of this license
 
 3: NOTICE OF PERMISSIONS
@@ -19,12 +21,12 @@ furnished to also do so, given the following conditions are obeyed:
  - This license shall be blatantly provided, unmodified, along with the Product
 
 4: REFUSAL OF OWNERSHIP
-   The Licensers hereby refuse ownership, both fully and partially, of the
+   The Licensors hereby refuse ownership, both fully and partially, of the
 Product, and agree to continue to refuse ownership so long as this license is
 provided with the Product.
 
    If any part of the Product is covered under copyright, trademark,
-intellectual property, or any other form of ownership, to the Licensers or any
+intellectual property, or any other form of ownership, to the Licensors or any
 other entity, this license shall not invalidate that ownership in any way.
 
 5: ACCORDANCE WITH THE LAW
