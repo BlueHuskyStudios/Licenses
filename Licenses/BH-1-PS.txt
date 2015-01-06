@@ -47,8 +47,8 @@ following conditions are obeyed:
 4: DECLARATION OF OWNERSHIP
    The Creator hereby declares that the Product is the intellectual property
 solely of the Creator, and of no other party. The Creator maintains that any
-intellectual property which falls under § 5.1 of this License is considered
-fair use as described in § 5.4 of this License.
+intellectual property which falls under  5.1 of this License is considered
+fair use as described in  5.4 of this License.
 
 5: THE RIGHTS OF THE CREATOR
  1. The Creator reserves no rights to any previously-established intellectual
@@ -66,8 +66,8 @@ fair use as described in § 5.4 of this License.
     such compensation as allowed by the following legal documents:
    a. Amendment I of the United States Constitution
    b. Article 19 of the Universal Declaration of Human Rights
-   c. 17 USC § 107 - Limitations on exclusive rights: Fair use
- 5. In cases where all of the documents listed under § 5.4 of this
+   c. 17 USC  107 - Limitations on exclusive rights: Fair use
+ 5. In cases where all of the documents listed under  5.4 of this
     License are not legally recognized, the Creator agrees to pay the owner of
     the disputed intellectual property a sum which equals the proportion of the
     prevalence that the disputed intellectual property maintains in the Product
