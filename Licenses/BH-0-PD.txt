@@ -1,4 +1,4 @@
-                 BLUE HUSKY LICENSE 0 - PUBLIC DOMAIN - OPUS 5
+                 BLUE HUSKY LICENSE 0 - PUBLIC DOMAIN - OPUS 6
 
 0: LAYMAN'S TERMS
    This section is meant to explain the purpose of this License in Layman's
@@ -11,7 +11,7 @@ not apply to further sections of this License.
  3. If you use someone else's stuff, it's still theirs
 
 1: DECLARATION OF CREATION
-   This product was made by [COMPANY NAME] (c) [4-DIGIT YEAR] BH-0-PD
+   This product was made by [COMPANY NAME] in [4-DIGIT YEAR]
 
 2: DEFINITIONS
  - "License": this text
