@@ -1,13 +1,14 @@
-                 BLUE HUSKY LICENSE 0 - PUBLIC DOMAIN - OPUS 4
+                 BLUE HUSKY LICENSE 0 - PUBLIC DOMAIN - OPUS 5
 
 0: LAYMAN'S TERMS
-   This section is meant to explain the purpose of this license in Layman's
+   This section is meant to explain the purpose of this License in Layman's
 terms, and should thusly never be seen as legally binding. This disclaimer does
-not apply to further sections of this license.
+not apply to further sections of this License.
 
  1. This is no one's product and is in the public domain
- 2. You're not responsible for bad things that might happen because someone
+ 2. You're not responsible for any bad things that might happen because someone
     used this product
+ 3. If you use someone else's stuff, it's still theirs
 
 1: DECLARATION OF CREATION
    This product was made by [COMPANY NAME] (c) [4-DIGIT YEAR] BH-0-PD
@@ -27,19 +28,19 @@ furnished to also do so, given the following conditions are obeyed:
 
  - The above copyright notice and this permission notice shall be included in
    all copies and/or substantial portions of the Product.
- - This license shall be blatantly provided, unmodified, along with the Product
+ - This License shall be blatantly provided, unmodified, along with the Product
 
 4: REFUSAL OF OWNERSHIP
    The Licensors hereby refuse ownership, both fully and partially, of the
-Product, and agree to continue to refuse ownership so long as this license is
+Product, and agree to continue to refuse ownership so long as this License is
 provided with the Product.
 
    If any part of the Product is covered under copyright, trademark,
 intellectual property, or any other form of ownership, to the Licensors or any
-other entity, this license shall not invalidate that ownership in any way.
+other entity, this License shall not invalidate that ownership in any way.
 
 5: ACCORDANCE WITH THE LAW
-   The terms that make up the whole and parts of this license shall not apply
+   The terms that make up the whole and parts of this License shall not apply
 where local, state, provincial, federal, national, or any other law prohibits
 such terms.
 
