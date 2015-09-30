@@ -1,14 +1,16 @@
-                  BLUE HUSKY LICENSE 1 - PUBLIC SHARE - OPUS 1
+                  BLUE HUSKY LICENSE 1 - PUBLIC SHARE - OPUS 2
 
 0: LAYMAN'S TERMS
    This section is meant to explain the purpose of this license in Layman's
 terms, and should thusly never be seen as legally binding. This disclaimer does
 not apply to further sections of this license.
 
+If you made this:
+
  1. This is your product and you can do what you want with it
    a. You must make sure that if you use anyone else's stuff in it, you do so
       with their permission, or under Fair Use
-   b. If you do include someone else's stuff, you can't claim that you made it
+   b. If you do include someone else's stuff, you can't claim you made that
    c. You guarantee you're providing this product for free
  2. You must let others do what they want with it
    a. They still have to say you made it in the first place
@@ -17,7 +19,21 @@ not apply to further sections of this license.
  3. This license is overridden by governmental laws
  4. You're not responsible for bad things that might happen because someone
     used your product
- 
+
+If you got this:
+
+ 1. This is not your product, and you need to respect that
+   a. You must make sure that if you put anyone else's stuff in it, you do so
+      with their permission, or under Fair Use
+   b. If you do include someone else's stuff, you can't claim you made that
+   c. You are guaranteed you're getting this product for free
+ 2. You can still do what they want with this
+   a. You still have to say who made it in the first place
+   b. You get all the freedoms in this license along with this product
+   c. You have to include this license when you redistribute your product
+ 3. This license is overridden by governmental laws
+ 4. The original creator is not responsible for bad things that might happen
+    because you used this product
 
 1: DECLARATION OF COPYRIGHT
    This Product is copyright [COMPANY NAME] (c) [4-DIGIT YEAR] BH-1-PS
@@ -86,7 +102,7 @@ fair use as described in § 5.4 of this License.
  1. You maintain the following rights and restrictions:
    a. You are free to copy, distribute and transmit the work.
      i. For any reuse or distribution, You must make clear to others the
-        License terms of the License. 
+        License terms of the License.
    b. You are free to adapt the work.
      i. If You alter, transform, or build upon the Product, You may distribute
         the resulting work only under this License.
