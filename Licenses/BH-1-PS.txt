@@ -27,10 +27,10 @@ If you got this:
       with their permission, or under Fair Use
    b. If you do include someone else's stuff, you can't claim you made that
    c. You are guaranteed you're getting this product for free
- 2. You can still do what they want with this
+ 2. You can still do what you want with this
    a. You still have to say who made it in the first place
    b. You get all the freedoms in this license along with this product
-   c. You have to include this license when you redistribute your product
+   c. You have to include this license when you redistribute this product
  3. This license is overridden by governmental laws
  4. The original creator is not responsible for bad things that might happen
     because you used this product
