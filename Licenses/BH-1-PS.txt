@@ -121,12 +121,12 @@ fair use as described in § 5.4 of this License.
    b. Rights another entity may have, either in the Product itself or in how
       the Product is used, such as publicity or privacy rights.
 
-6: ACCORDANCE WITH THE LAW
+7: ACCORDANCE WITH THE LAW
    The terms that make up the whole and parts of this License shall not apply
 where local, state, provincial, federal, national, or any other law prohibits
 such terms.
 
-7: DISCLAIMER
+8: DISCLAIMER
    THE PRODUCT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED. IN NO EVENT SHALL THE CREATORS, LICENSEES, OR LICENSORS BE LIABLE FOR
 ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT,
