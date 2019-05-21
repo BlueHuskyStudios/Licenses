@@ -21,7 +21,7 @@ If you made this:
       with their permission, or under Fair Use
    b. If you do include someone else's stuff, you can't claim you made that
    c. You can charge whatever you want for this, in any way you want
- 2. You must let others do what they want with it once they pay for it
+ 2. You must let others do what they want with it as long as they pay for it
    a. They still have to say you made it in the first place
    b. You have to include this license along with your product for it to count
    c. They have to include this license when they redistribute your product
@@ -36,11 +36,13 @@ If you got this:
       with their permission, or under Fair Use
    b. If you do include someone else's stuff, you can't claim you made that
    c. You agree that it's OK to pay what the creator asks for this
- 2. You can do what you want with this once you pay for it
+ 2. You can do what you want with this as long as you pay for it
    a. You still have to say who made it in the first place
    b. You get all the freedoms in this license along with this product
    c. You have to include this license when you redistribute this product,
       unless the creator says otherwise
+   d. You can edit this license as long as you let other editors know,
+      especially the original author
  3. This license is overridden by governmental laws
  4. The original creator is not responsible for bad things that might happen
     because you used this product
@@ -49,6 +51,7 @@ If you got this:
 1: DECLARATION OF COPYRIGHT
    This Product is copyright [COMPANY NAME] (c) [4-DIGIT YEAR] BH-2-PC
 
+   [COMPANY NAME] may be reached at [COMPANY CONTACT]
 
 2: DEFINITIONS
  - "License": this text
@@ -62,6 +65,9 @@ If you got this:
    always the Creator.
  - "Compensation": any form of payment given to the Creator in exchange for
    access to the Product
+ - "Distributor": any entity or entities, or subsidiaries thereof, involved in
+   the distribution of the Product, which do not wish to be considered a
+   Licensor
 
 
 3: NOTICE OF PERMISSIONS
@@ -70,7 +76,7 @@ to use, copy, modify, host, redistribute, sublicense, sell copies of, and/or
 otherwise handle the Product, and to permit Licensees to also do so, given the
 following conditions are obeyed:
 
- - The Product shall first be purchased as specified by the Creator
+ - The Product shall be purchased as specified by the Creator
  - The above copyright notice and this permission notice shall be included in
    all copies and/or substantial portions of the Product.
  - This License shall be blatantly provided, unmodified, along with the Product
@@ -85,7 +91,7 @@ Creator maintains that any intellectual property which falls under § 5.1 of
 this License is included under fair use as described in § 5.4 of this License.
 
 
-5: THE RIGHTS OF THE CREATOR
+5: THE RIGHTS OF THE CREATOR AND FURTHER LICENSORS
  1. The Creator reserves no rights to any previously-established intellectual
     property which is implicitly or explicitly owned by any other entity or
     entities.
