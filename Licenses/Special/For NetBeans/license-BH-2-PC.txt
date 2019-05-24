@@ -1,7 +1,16 @@
 <#if licenseFirst??>
 ${licenseFirst}
 </#if>
-${licensePrefix}                  BLUE HUSKY LICENSE 1 - PUBLIC SHARE - OPUS 3
+${licensePrefix}                BLUE HUSKY LICENSE 2 - PUBLIC COMMERCIAL - OPUS 0
+
+
+
+DO NOT USE: This text is currently in the draft stage. It has not been finished
+and is not ready to be used as legal text of any kind. Until this text is out
+of the draft stage, use of this exact text in any legal setting is hereby
+strictly and explicitly prohibited by this text.
+
+
 ${licensePrefix}
 ${licensePrefix}0: LAYMAN'S TERMS
 ${licensePrefix}   This section is meant to explain the purpose of this license in Layman's
@@ -14,11 +23,12 @@ ${licensePrefix} 1. This is your product and you can do what you want with it
 ${licensePrefix}   a. You must make sure that if you use anyone else's stuff in it, you do so
 ${licensePrefix}      with their permission, or under Fair Use
 ${licensePrefix}   b. If you do include someone else's stuff, you can't claim you made that
-${licensePrefix}   c. You guarantee you're providing this product for free
+${licensePrefix}   c. You can charge whatever you want for this, in any way you want
 ${licensePrefix} 2. You must let others do what they want with it
 ${licensePrefix}   a. They still have to say you made it in the first place
-${licensePrefix}   b. You have to include this license along with your product for it to count
-${licensePrefix}   c. They have to include this license when they redistribute your product
+${licensePrefix}   b. They still have to pay for it however you want
+${licensePrefix}   c. You have to include this license along with your product for it to count
+${licensePrefix}   d. They have to include this license when they redistribute your product
 ${licensePrefix} 3. This license is overridden by governmental laws
 ${licensePrefix} 4. You're not responsible for bad things that might happen because someone
 ${licensePrefix}    used your product
@@ -29,12 +39,14 @@ ${licensePrefix} 1. This is not your product, and you need to respect that
 ${licensePrefix}   a. You must make sure that if you put anyone else's stuff in it, you do so
 ${licensePrefix}      with their permission, or under Fair Use
 ${licensePrefix}   b. If you do include someone else's stuff, you can't claim you made that
-${licensePrefix}   c. You are guaranteed you're getting this product for free
-${licensePrefix} 2. You can still do what you want with this
+${licensePrefix}   c. You agree that it's OK to pay what the creator asks for this
+${licensePrefix} 2. You can do what you want with this
 ${licensePrefix}   a. You still have to say who made it in the first place
-${licensePrefix}   b. You get all the freedoms in this license along with this product
-${licensePrefix}   c. You have to include this license when you redistribute this product
-${licensePrefix}   d. You can edit this license as long as you let other editors know,
+${licensePrefix}   b. You still have to pay for it however the creator wants
+${licensePrefix}   c. You get all the freedoms in this license along with this product
+${licensePrefix}   d. You have to include this license when you redistribute this product,
+${licensePrefix}      unless the creator says otherwise
+${licensePrefix}   e. You can edit this license as long as you let other editors know,
 ${licensePrefix}      especially the original author
 ${licensePrefix} 3. This license is overridden by governmental laws
 ${licensePrefix} 4. The original creator is not responsible for bad things that might happen
@@ -42,10 +54,9 @@ ${licensePrefix}    because you used this product
 ${licensePrefix}
 ${licensePrefix}
 ${licensePrefix}1: DECLARATION OF COPYRIGHT
-${licensePrefix}   This Product is copyright ${organization!user} (c) ${date?date?string("yyyy")} BH-1-PS
+${licensePrefix}   This Product is copyright [CREATOR NAME] (c) [4-DIGIT YEAR] BH-2-PC
 ${licensePrefix}
-${licensePrefix}   ${organization!user} may be reached at ${email}
-${licensePrefix}
+${licensePrefix}   [CREATOR NAME] may be reached at [CREATOR CONTACT]
 ${licensePrefix}
 ${licensePrefix}2: DEFINITIONS
 ${licensePrefix} - "License": this text.
@@ -57,36 +68,55 @@ ${licensePrefix} - "Licensee": any entity or entities involved in consumption of
 ${licensePrefix} - "Licensor": any entity or entities involved in distribution of the Product
 ${licensePrefix}   and of this License. The Creator is always a Licensor, but a Licensor is not
 ${licensePrefix}   always the Creator.
+${licensePrefix} - "Distributor": any entity or entities, or subsidiaries thereof, involved in
+${licensePrefix}   the distribution of the Product, which do not wish to be considered a
+${licensePrefix}   Licensor.
+${licensePrefix} - "Compensation": any form of payment given to the Creator, Licensor, and/or
+${licensePrefix}   Distributor in exchange for access to the Product.
 ${licensePrefix}
 ${licensePrefix}
 ${licensePrefix}3: NOTICE OF PERMISSIONS
 ${licensePrefix}   Permission is hereby granted to any entity obtaining a copy of the Product,
 ${licensePrefix}to use, copy, modify, host, redistribute, sublicense, sell copies of, and/or
-${licensePrefix}otherwise handle the Product, and to permit Licensees to also do so, given the
-${licensePrefix}following conditions are obeyed:
+${licensePrefix}otherwise handle the Product, and to permit Licensors and Distributors to also
+${licensePrefix}do so, given the following conditions are obeyed:
 ${licensePrefix}
-${licensePrefix} - The above copyright notice and this permission notice shall be included in
-${licensePrefix}   all copies and/or substantial portions of the Product.
-${licensePrefix} - This License shall be blatantly provided, unmodified, along with the Product
-${licensePrefix} - Attribution to the Creator must be blatantly stated, modifications of the
-${licensePrefix}   Product notwithstanding
+${licensePrefix} 1. The Creator shall be granted Compensation for the Product, for any copies of
+${licensePrefix}    the Product, and/or for any copies of any substantial portions of the
+${licensePrefix}    Product, in the manner specified by the Creator
+${licensePrefix} 2. The above copyright notice and this permission notice shall be included in
+${licensePrefix}    all copies and/or substantial portions of the Product.
+${licensePrefix} 3. This License shall be blatantly provided, unmodified, along with the Product
+${licensePrefix} 4. Attribution to the Creator must be blatantly stated, notwithstanding
+${licensePrefix}    significant modifications of the Product which comply with § 3.1
 ${licensePrefix}
 ${licensePrefix}
 ${licensePrefix}4: DECLARATION OF OWNERSHIP
-${licensePrefix}   The Creator hereby declares that the Product is the intellectual property
-${licensePrefix}solely of the Creator, and of no other party. The Creator maintains that any
-${licensePrefix}intellectual property which falls under § 5.1 of this License is considered
-${licensePrefix}fair use as described in § 5.4 of this License.
+${licensePrefix}   The Creator hereby declares that everything which makes up the Product is
+${licensePrefix}the intellectual property solely of the Creator, and of no other party. The
+${licensePrefix}Creator maintains that any intellectual property which falls under § 5.1 of
+${licensePrefix}this License is included under fair use as described in § 5.4 of this License.
 ${licensePrefix}
 ${licensePrefix}
 ${licensePrefix}5: THE RIGHTS OF THE CREATOR AND FURTHER LICENSORS
 ${licensePrefix} 1. The Creator reserves no rights to any previously-established intellectual
-${licensePrefix}    property contained within the Product which is implicitly or explicitly
-${licensePrefix}    owned by any other entity or entities.
-${licensePrefix} 2. The Creator will not gain any profit through the creation or distribution
-${licensePrefix}    of the Product.
-${licensePrefix}   a. The Creator forfeits the right to request compensation for any use of the
-${licensePrefix}      Product which adheres to the restrictions described by this License.
+${licensePrefix}    property which is implicitly or explicitly owned by any other entity or
+${licensePrefix}    entities.
+${licensePrefix}   a. If any such intellectual property is contained within or bundled
+${licensePrefix}      alongside the Product, or is otherwise distributed with or appears
+${licensePrefix}      covered under this License, the Creator forfeits any and all claims on
+${licensePrefix}      said property, and said property shall not be covered by this License and
+${licensePrefix}      shall not be considered a part of the Product.
+${licensePrefix} 2. The Creator reserves the right to Compensation for the redistribution of
+${licensePrefix}    the Product.
+${licensePrefix}   a. The Creator reserves the right to request Compensation for any use of the
+${licensePrefix}      Product.
+${licensePrefix}   b. This License places no restrictions on how the Creator can request
+${licensePrefix}      Compensation.
+${licensePrefix}   c. Any Licensee who completes Compensation to the Creator, in the way in
+${licensePrefix}      which the Creator specifies, gains all rights of a Licensor.
+${licensePrefix}   d. The Creator may choose to share with the Distributor a portion or the
+${licensePrefix}      whole of any Compensation.
 ${licensePrefix} 3. The Creator reserves the right to freely create, edit, distribute, destroy,
 ${licensePrefix}    or otherwise interact with the whole of, or any part of, the Product.
 ${licensePrefix} 4. In the case that any entity other than the Creator claims to own
@@ -98,11 +128,11 @@ ${licensePrefix}   a. Amendment I of the United States Constitution
 ${licensePrefix}   b. Article 19 of the Universal Declaration of Human Rights
 ${licensePrefix}   c. 17 USC § 107 - Limitations on exclusive rights: Fair use
 ${licensePrefix} 5. In cases where all of the documents listed under § 5.4 of this
-${licensePrefix}    License are not legally recognized, the Creator agrees to pay the owner of
-${licensePrefix}    the disputed intellectual property a sum which equals the proportion of the
-${licensePrefix}    prevalence that the disputed intellectual property maintains in the Product
-${licensePrefix}    out of the total sum of profits garnered by the Creator for creating the
-${licensePrefix}    Product.
+${licensePrefix}    License are not legally recognized or do not apply to the Compensation
+${licensePrefix}    request, the Creator agrees to pay the owner of the disputed intellectual
+${licensePrefix}    property a sum which equals the proportion of the prevalence that the
+${licensePrefix}    disputed intellectual property maintains in the Product out of the total
+${licensePrefix}    sum of profits garnered by the Creator for creating the Product.
 ${licensePrefix} 6. The Creator reserves the right to waive any conditions of this License at
 ${licensePrefix}    the Creator's discretion.
 ${licensePrefix} 7. The Licensor reserves the right to edit this License at any time under the
@@ -116,6 +146,7 @@ ${licensePrefix}      changes made to the License. If such author is not reasona
 ${licensePrefix}      the Licensor agrees to notify any known authors which have previously
 ${licensePrefix}      contributed to the License.
 ${licensePrefix} 8. In no way are any of the Creator's moral rights affected by this License
+${licensePrefix} 9. The Creator allows the Distributor to enforce the terms of this License
 ${licensePrefix}
 ${licensePrefix}
 ${licensePrefix}6: RIGHTS AND RESTRICTIONS OF LICENSEES AND LICENSORS ("YOU")
@@ -128,8 +159,8 @@ ${licensePrefix}     i.  If You alter, transform, or build upon the Product, You
 ${licensePrefix}         the resulting Product only under this License.
 ${licensePrefix}     ii. If you alter, transform, or build upon this License, You must do so
 ${licensePrefix}         under the terms of § 5.7 of this License.
-${licensePrefix}   c. You are free to make indirect commercial use of the Product.
-${licensePrefix}     i. You may not directly profit from distribution of the Product.
+${licensePrefix}   c. You are free to make commercial use of the Product under the terms of
+${licensePrefix}      § 5.2 of this License.
 ${licensePrefix}   d. You must attribute the Product in the manner specified by the Creator (but
 ${licensePrefix}      not in any way that suggests that the Creator endorses You or such use of
 ${licensePrefix}      the Product).
@@ -142,7 +173,8 @@ ${licensePrefix} 2. In no way are any of the following rights affected by the Li
 ${licensePrefix}   a. The fair dealing or fair use rights afforded to You, or other applicable
 ${licensePrefix}      copyright exceptions and limitations.
 ${licensePrefix}   b. Rights another entity may have, either in the Product itself or in how
-${licensePrefix}      the Product is used, such as publicity, privacy, or repair rights.
+${licensePrefix}      the Product is used, such as publicity or privacy rights.
+${licensePrefix} 3. You allow the Distributor to enforce the terms of this License
 ${licensePrefix}
 ${licensePrefix}
 ${licensePrefix}7: ACCORDANCE WITH THE LAW
@@ -153,10 +185,10 @@ ${licensePrefix}
 ${licensePrefix}
 ${licensePrefix}8: DISCLAIMER
 ${licensePrefix}   THE PRODUCT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-${licensePrefix}IMPLIED. IN NO EVENT SHALL THE CREATORS, LICENSEES, OR LICENSORS BE LIABLE FOR
-${licensePrefix}ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT,
-${licensePrefix}OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE PRODUCT OR THE
-${licensePrefix}USE OR OTHER DEALINGS IN OR WITH THE PRODUCT.
+${licensePrefix}IMPLIED. IN NO EVENT SHALL THE CREATORS, LICENSEES, LICENSORS, OR DISTRIBUTORS
+${licensePrefix}BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF
+${licensePrefix}CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE
+${licensePrefix}PRODUCT OR THE USE OR OTHER DEALINGS IN OR WITH THE PRODUCT.
 ${licensePrefix}
 <#if licenseLast??>
 ${licenseLast}

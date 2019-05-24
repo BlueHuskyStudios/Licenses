@@ -22,7 +22,7 @@ not apply to further sections of this License.
  - "Product": the product with which this License was distributed, and any
    assets necessary for its use.
  - "Licensor": any entity or entities involved in distribution of the Product
-   and of this license.
+   and of this License.
 
 
 3: NOTICE OF PERMISSIONS

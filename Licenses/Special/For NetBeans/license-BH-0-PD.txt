@@ -1,7 +1,7 @@
 <#if licenseFirst??>
 ${licenseFirst}
 </#if>
-${licensePrefix}                 BLUE HUSKY LICENSE 0 - PUBLIC DOMAIN - OPUS 6
+${licensePrefix}                 BLUE HUSKY LICENSE 0 - PUBLIC DOMAIN - OPUS 7
 ${licensePrefix}
 ${licensePrefix}0: LAYMAN'S TERMS
 ${licensePrefix}   This section is meant to explain the purpose of this License in Layman's
@@ -16,36 +16,55 @@ ${licensePrefix}
 ${licensePrefix}1: DECLARATION OF CREATION
 ${licensePrefix}   This product was made by ${organization!user} in ${date?date?string("yyyy")}
 ${licensePrefix}
+${licensePrefix}   ${organization!user} may be reached at ${email}
+${licensePrefix}
+${licensePrefix}
 ${licensePrefix}2: DEFINITIONS
-${licensePrefix} - "License": this text
+${licensePrefix} - "License": this text.
 ${licensePrefix} - "Product": the product with which this License was distributed, and any
-${licensePrefix}   assets necessary for its use
+${licensePrefix}   assets necessary for its use.
 ${licensePrefix} - "Licensors": any entity or entities involved in distribution of the Product
-${licensePrefix}   and of this license
+${licensePrefix}   and of this License.
+${licensePrefix}
 ${licensePrefix}
 ${licensePrefix}3: NOTICE OF PERMISSIONS
-${licensePrefix}   Permission is hereby granted to any entity obtaining a copy of the Product,
-${licensePrefix}to use, copy, modify, redistribute, sublicense, sell copies of, and/or
-${licensePrefix}otherwise handle the Product, and to permit entities to whom the Product is
-${licensePrefix}furnished to also do so, given the following conditions are obeyed:
+${licensePrefix} 1. Permission is hereby granted to any entity obtaining a copy of the Product,
+${licensePrefix}    to use, copy, modify, redistribute, sublicense, sell copies of, and/or
+${licensePrefix}    otherwise handle the Product, and to permit entities to whom the Product is
+${licensePrefix}    furnished to also do so, given the following conditions are obeyed:
 ${licensePrefix}
-${licensePrefix} - The above copyright notice and this permission notice shall be included in
-${licensePrefix}   all copies and/or substantial portions of the Product.
-${licensePrefix} - This License shall be blatantly provided, unmodified, along with the Product
+${licensePrefix}   a. The above copyright notice and this permission notice shall be included in
+${licensePrefix}      all copies and/or substantial portions of the Product.
+${licensePrefix}   b. This License shall be blatantly provided, unmodified, along with the
+${licensePrefix}      Product.
+${licensePrefix}
+${licensePrefix} 2. The Licensor reserves the right to edit this License at any time under the
+${licensePrefix}    terms of BH-1-PS, given the following conditions are obeyed:
+${licensePrefix}   a. The Licensor agrees to increment the Opus number of this License to
+${licensePrefix}      correspond with version changes.
+${licensePrefix}   b. The Licensor agrees to never publish two or more versions of this License
+${licensePrefix}      under the same Opus number.
+${licensePrefix}   c. The Licensor agrees to notify the License's original author of any
+${licensePrefix}      changes made to the License. If such author is not reasonably accessible,
+${licensePrefix}      the Licensor agrees to notify any known authors which have previously
+${licensePrefix}      contributed to the License.
+${licensePrefix}
 ${licensePrefix}
 ${licensePrefix}4: REFUSAL OF OWNERSHIP
-${licensePrefix}   The Licensors hereby refuse ownership, both fully and partially, of the
-${licensePrefix}Product, and agree to continue to refuse ownership so long as this License is
+${licensePrefix}   The Licensor hereby refuses ownership, both fully and partially, of the
+${licensePrefix}Product, and agrees to continue to refuse ownership so long as this License is
 ${licensePrefix}provided with the Product.
 ${licensePrefix}
 ${licensePrefix}   If any part of the Product is covered under copyright, trademark,
 ${licensePrefix}intellectual property, or any other form of ownership, to the Licensors or any
 ${licensePrefix}other entity, this License shall not invalidate that ownership in any way.
 ${licensePrefix}
+${licensePrefix}
 ${licensePrefix}5: ACCORDANCE WITH THE LAW
 ${licensePrefix}   The terms that make up the whole and parts of this License shall not apply
 ${licensePrefix}where local, state, provincial, federal, national, or any other law prohibits
 ${licensePrefix}such terms.
+${licensePrefix}
 ${licensePrefix}
 ${licensePrefix}6: DISCLAIMER
 ${licensePrefix}   THE PRODUCT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
@@ -53,6 +72,7 @@ ${licensePrefix}IMPLIED. IN NO EVENT SHALL THE CREATOR OR LICENSORS BE LIABLE FO
 ${licensePrefix}DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR
 ${licensePrefix}OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE PRODUCT OR THE USE
 ${licensePrefix}OR OTHER DEALINGS IN OR WITH THE PRODUCT.
+${licensePrefix}
 <#if licenseLast??>
 ${licenseLast}
 </#if>
