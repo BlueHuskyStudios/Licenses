@@ -70,16 +70,22 @@ following conditions are obeyed:
 
 
 4: DECLARATION OF OWNERSHIP
-   The Creator hereby declares that the Product is the intellectual property
-solely of the Creator, and of no other party. The Creator maintains that any
-intellectual property which falls under § 5.1 of this License is considered
-fair use as described in § 5.4 of this License.
+   The Creator hereby declares that everything which makes up the Product is
+the intellectual property solely of the Creator and of no other party,
+notwithstanding any intellectual property which is included under Fair Use Laws
+as described in § 5.4 of this License, or within the restrictions of the
+licenses thereof. Such intellectual property falls under § 5.1 of this License.
 
 
 5: THE RIGHTS OF THE CREATOR AND FURTHER LICENSORS
  1. The Creator reserves no rights to any previously-established intellectual
-    property contained within the Product which is implicitly or explicitly
-    owned by any other entity or entities.
+    property which is implicitly or explicitly owned by any other entity or
+    entities.
+   a. If any such intellectual property is contained within or bundled
+      alongside the Product, or is otherwise distributed with or appears
+      covered under this License, the Creator forfeits any and all claims on
+      said property, and said property shall not be covered by this License and
+      shall not be considered a part of the Product.
  2. The Creator will not gain any profit through the creation or distribution
     of the Product.
    a. The Creator forfeits the right to request compensation for any use of the

@@ -34,7 +34,7 @@ This is similar to [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0
 ## [BH-2-PC](./Licenses/BH-2-PC.txt) ##
 > Blue Husky License 2 - **PUBLIC COMMERCIAL**
 
-This license is similar to BH-1-PS, but it allows for the product to be sold commercially, and adds provisions to allow for this, while preventing consumers from doing harm to the creator by abusing the public nature of the product, and while still allowing them to become licensors by paying for it.
+This license is similar to BH-1-PS, but it allows for the product to be sold commercially, and adds provisions to allow for this, while preventing consumers from doing harm to the creator by abusing the public nature of the product, all while still allowing them to become licensors by paying for it.
 
 This license was designed to be compliant with [Apple's Minimum Terms of Developer&lsquo;s EULA](https://www.apple.com/legal/internet-services/itunes/dev/minterms/), allowing it to be used as an EULA on Apple's app stores.
 

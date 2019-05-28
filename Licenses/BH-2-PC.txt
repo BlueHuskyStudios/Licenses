@@ -90,9 +90,10 @@ do so, given the following conditions are obeyed:
 
 4: DECLARATION OF OWNERSHIP
    The Creator hereby declares that everything which makes up the Product is
-the intellectual property solely of the Creator, and of no other party. The
-Creator maintains that any intellectual property which falls under § 5.1 of
-this License is included under fair use as described in § 5.4 of this License.
+the intellectual property solely of the Creator and of no other party,
+notwithstanding any intellectual property which is included under Fair Use Laws
+as described in § 5.4 of this License, or within the restrictions of the
+licenses thereof. Such intellectual property falls under § 5.1 of this License.
 
 
 5: THE RIGHTS OF THE CREATOR AND FURTHER LICENSORS
@@ -120,7 +121,7 @@ this License is included under fair use as described in § 5.4 of this License.
     intellectual property contained within the Product and requests
     Compensation for the use of such intellectual property, the Creator
     reserves the right to refuse such Compensation as allowed by the following
-    legal documents:
+    legal documents (collectively, "Fair Use Laws"):
    a. Amendment I of the United States Constitution
    b. Article 19 of the Universal Declaration of Human Rights
    c. 17 USC § 107 - Limitations on exclusive rights: Fair use
