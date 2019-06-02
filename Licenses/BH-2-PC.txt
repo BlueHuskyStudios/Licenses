@@ -1,13 +1,4 @@
-                BLUE HUSKY LICENSE 2 - PUBLIC COMMERCIAL - OPUS 0
-
-
-
-DO NOT USE: This text is currently in the draft stage. It has not been finished
-and is not ready to be used as legal text of any kind. Until this text is out
-of the draft stage, use of this exact text in any legal setting is hereby
-strictly and explicitly prohibited by this text.
-
-
+                BLUE HUSKY LICENSE 2 - PUBLIC COMMERCIAL - OPUS 1
 
 0: LAYMAN'S TERMS
    This section is meant to explain the purpose of this license in Layman's
@@ -59,6 +50,7 @@ If you got this:
 
    [CREATOR NAME] may be reached at [CREATOR CONTACT]
 
+
 2: DEFINITIONS
  - "License": this text.
  - "Product": the product with which this License was distributed, and any
@@ -70,10 +62,10 @@ If you got this:
    and of this License. The Creator is always a Licensor, but a Licensor is not
    always the Creator.
  - "Distributor": any entity or entities, or subsidiaries thereof, involved in
-   the distribution of the Product, which do not wish to be considered a
-   Licensor.
+   the distribution of the Product. A Distributor may not wish to be considered
+   a Licensor.
  - "Compensation": any form of payment given to the Creator, Licensor, and/or
-   Distributor in exchange for access to the Product.
+   Distributor in exchange for the Product, and/or for access to the Product.
 
 
 3: NOTICE OF PERMISSIONS
