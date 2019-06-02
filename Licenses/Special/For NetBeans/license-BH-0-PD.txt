@@ -13,17 +13,18 @@ ${licensePrefix} 2. You're not responsible for any bad things that might happen 
 ${licensePrefix}    used this product
 ${licensePrefix} 3. If you use someone else's stuff, it's still theirs
 ${licensePrefix}
-${licensePrefix}1: DECLARATION OF CREATION
-${licensePrefix}   This product was made by ${organization!user} in ${date?date?string("yyyy")}
 ${licensePrefix}
-${licensePrefix}   ${organization!user} may be reached at ${email}
+${licensePrefix}1: DECLARATION OF CREATION
+${licensePrefix}   This product was made by [CREATOR NAME] in [4-DIGIT YEAR]
+${licensePrefix}
+${licensePrefix}   [CREATOR NAME] may be reached at [CREATOR CONTACT]
 ${licensePrefix}
 ${licensePrefix}
 ${licensePrefix}2: DEFINITIONS
 ${licensePrefix} - "License": this text.
 ${licensePrefix} - "Product": the product with which this License was distributed, and any
 ${licensePrefix}   assets necessary for its use.
-${licensePrefix} - "Licensors": any entity or entities involved in distribution of the Product
+${licensePrefix} - "Licensor": any entity or entities involved in distribution of the Product
 ${licensePrefix}   and of this License.
 ${licensePrefix}
 ${licensePrefix}
@@ -32,12 +33,10 @@ ${licensePrefix} 1. Permission is hereby granted to any entity obtaining a copy 
 ${licensePrefix}    to use, copy, modify, redistribute, sublicense, sell copies of, and/or
 ${licensePrefix}    otherwise handle the Product, and to permit entities to whom the Product is
 ${licensePrefix}    furnished to also do so, given the following conditions are obeyed:
-${licensePrefix}
-${licensePrefix}   a. The above copyright notice and this permission notice shall be included in
-${licensePrefix}      all copies and/or substantial portions of the Product.
+${licensePrefix}   a. The above copyright notice and this permission notice shall be included
+${licensePrefix}      in all copies and/or substantial portions of the Product.
 ${licensePrefix}   b. This License shall be blatantly provided, unmodified, along with the
 ${licensePrefix}      Product.
-${licensePrefix}
 ${licensePrefix} 2. The Licensor reserves the right to edit this License at any time under the
 ${licensePrefix}    terms of BH-1-PS, given the following conditions are obeyed:
 ${licensePrefix}   a. The Licensor agrees to increment the Opus number of this License to
