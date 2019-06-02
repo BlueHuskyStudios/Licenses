@@ -23,16 +23,19 @@ If you made this:
 If you got this:
 
  1. This is not your product, and you need to respect that
-   a. You must make sure that if you put anyone else's stuff in it, you do so
-      with their permission, or under Fair Use
-   b. If you do include someone else's stuff, you can't claim you made that
-   c. You are guaranteed you're getting this product for free
- 2. You can still do what you want with this
+   a. If you see anyone else's stuff in it, that was put there with their
+      permission, or under Fair Use
+   b. You are guaranteed you're getting this product for free
+ 2. You can do what you want with this
    a. You still have to say who made it in the first place
    b. You get all the freedoms in this license along with this product
-   c. You have to include this license when you redistribute this product
+   c. You have to include this license when you redistribute this product,
+      unless the creator says otherwise
    d. You can edit this license as long as you let other editors know,
       especially the original author
+   e. You must make sure that if you use anyone else's stuff in it, you do so
+      with their permission, or under Fair Use
+   f. If you do include someone else's stuff, you can't claim you made that
  3. This license is overridden by governmental laws
  4. The original creator is not responsible for bad things that might happen
     because you used this product
@@ -62,11 +65,11 @@ to use, copy, modify, host, redistribute, sublicense, sell copies of, and/or
 otherwise handle the Product, and to permit Licensees to also do so, given the
 following conditions are obeyed:
 
- - The above copyright notice and this permission notice shall be included in
-   all copies and/or substantial portions of the Product.
- - This License shall be blatantly provided, unmodified, along with the Product
- - Attribution to the Creator must be blatantly stated, modifications of the
-   Product notwithstanding
+ 1. The above copyright notice and this permission notice shall be included in
+    all copies and/or substantial portions of the Product.
+ 2. This License shall be blatantly provided, unmodified, along with the
+    Product.
+ 3. Attribution to the Creator must be blatantly stated.
 
 
 4: DECLARATION OF OWNERSHIP
@@ -97,9 +100,9 @@ licenses thereof. Such intellectual property falls under § 5.1 of this License.
     Compensation for the use of such intellectual property, the Creator
     reserves the right to refuse such Compensation as allowed by the following
     legal documents:
-   a. Amendment I of the United States Constitution
-   b. Article 19 of the Universal Declaration of Human Rights
-   c. 17 USC § 107 - Limitations on exclusive rights: Fair use
+   a. Amendment I of the United States Constitution.
+   b. Article 19 of the Universal Declaration of Human Rights.
+   c. 17 USC § 107 - Limitations on exclusive rights: Fair use.
  5. In cases where all of the documents listed under § 5.4 of this
     License are not legally recognized, the Creator agrees to pay the owner of
     the disputed intellectual property a sum which equals the proportion of the
@@ -118,7 +121,7 @@ licenses thereof. Such intellectual property falls under § 5.1 of this License.
       changes made to the License. If such author is not reasonably accessible,
       the Licensor agrees to notify any known authors which have previously
       contributed to the License.
- 8. In no way are any of the Creator's moral rights affected by this License
+ 8. In no way are any of the Creator's moral rights affected by this License.
 
 
 6: RIGHTS AND RESTRICTIONS OF LICENSEES AND LICENSORS ("YOU")
@@ -140,7 +143,7 @@ licenses thereof. Such intellectual property falls under § 5.1 of this License.
       responsible for any changes made to the Product by You, or any effects
       arising thereof.
    f. You can be granted special rights by the Creator as described in § 5.6 of
-      this License
+      this License.
  2. In no way are any of the following rights affected by the License:
    a. The fair dealing or fair use rights afforded to You, or other applicable
       copyright exceptions and limitations.

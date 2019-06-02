@@ -30,12 +30,10 @@ not apply to further sections of this License.
     to use, copy, modify, redistribute, sublicense, sell copies of, and/or
     otherwise handle the Product, and to permit entities to whom the Product is
     furnished to also do so, given the following conditions are obeyed:
-
    a. The above copyright notice and this permission notice shall be included
       in all copies and/or substantial portions of the Product.
    b. This License shall be blatantly provided, unmodified, along with the
       Product.
-
  2. The Licensor reserves the right to edit this License at any time under the
     terms of BH-1-PS, given the following conditions are obeyed:
    a. The Licensor agrees to increment the Opus number of this License to
