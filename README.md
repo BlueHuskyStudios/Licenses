@@ -1,3 +1,16 @@
+# 📦 Archived
+
+⛔️⚠️ **DO NOT USE ANY OF THE LICENSES IN THIS REPOSITORY. NEVER USE A BH LICENSE.**
+
+This repository holds the self-written licenses we used for our creations. Aside from the legal risk and OSS community confusion of using self-written licenses, we also no longer agree with copyright nor copyleft licenses, so we're now publishing everything under [**The Fair License**](https://en.wikipedia.org/wiki/Fair_License).
+
+As such, this repository exists for archival purposes only. **DO NOT USE ANY OF THE LICENSES IN THIS REPOSITORY. NEVER USE A BH LICENSE.**
+
+The original README is preserved below:
+
+
+---
+
 
 # Licenses #
 
